@@ -1,4 +1,4 @@
-# 🌦️ Seattle Weather Data Analysis
+# 🌦️ Seattle Weather Data Analysis - By Siri Jasthi
 
 ## 📌 Project Overview
 
